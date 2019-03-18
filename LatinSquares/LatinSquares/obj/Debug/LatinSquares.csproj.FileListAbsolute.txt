@@ -1,0 +1,14 @@
+C:\Users\kikig\source\repos\LatinSquares\LatinSquares\bin\Debug\LatinSquares.exe.config
+C:\Users\kikig\source\repos\LatinSquares\LatinSquares\bin\Debug\LatinSquares.exe
+C:\Users\kikig\source\repos\LatinSquares\LatinSquares\bin\Debug\LatinSquares.pdb
+C:\Users\kikig\source\repos\LatinSquares\LatinSquares\obj\Debug\LatinSquares.csprojResolveAssemblyReference.cache
+C:\Users\kikig\source\repos\LatinSquares\LatinSquares\obj\Debug\LatinSquares.csproj.CoreCompileInputs.cache
+C:\Users\kikig\source\repos\LatinSquares\LatinSquares\obj\Debug\LatinSquares.exe
+C:\Users\kikig\source\repos\LatinSquares\LatinSquares\obj\Debug\LatinSquares.pdb
+C:\Users\kikig\Documents\GitHub\CS361-W18-Mcaldwell16\LatinSquares\LatinSquares\bin\Debug\LatinSquares.exe.config
+C:\Users\kikig\Documents\GitHub\CS361-W18-Mcaldwell16\LatinSquares\LatinSquares\bin\Debug\LatinSquares.exe
+C:\Users\kikig\Documents\GitHub\CS361-W18-Mcaldwell16\LatinSquares\LatinSquares\bin\Debug\LatinSquares.pdb
+C:\Users\kikig\Documents\GitHub\CS361-W18-Mcaldwell16\LatinSquares\LatinSquares\obj\Debug\LatinSquares.csprojResolveAssemblyReference.cache
+C:\Users\kikig\Documents\GitHub\CS361-W18-Mcaldwell16\LatinSquares\LatinSquares\obj\Debug\LatinSquares.csproj.CoreCompileInputs.cache
+C:\Users\kikig\Documents\GitHub\CS361-W18-Mcaldwell16\LatinSquares\LatinSquares\obj\Debug\LatinSquares.exe
+C:\Users\kikig\Documents\GitHub\CS361-W18-Mcaldwell16\LatinSquares\LatinSquares\obj\Debug\LatinSquares.pdb
